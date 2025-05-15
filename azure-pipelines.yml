@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'MyPool'
+  vmImage: 'Azure Pipelines'
 
 steps:
 - task: Maven@4
